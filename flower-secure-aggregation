@@ -1,1 +1,7 @@
-
+cp flower/flower-secure-aggregation/secaggexample/__pycache__
+flower/flower-secure-aggregation/secaggexample/__init__.py
+flower/flower-secure-aggregation/secaggexample/client_app.py
+flower/flower-secure-aggregation/secaggexample/pyproject.toml
+flower/flower-secure-aggregation/secaggexample/server_app.py
+flower/flower-secure-aggregation/secaggexample/task.py
+flower/flower-secure-aggregation/secaggexample/workflow_with_log.py
